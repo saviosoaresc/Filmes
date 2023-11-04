@@ -1,5 +1,5 @@
 # Filmes
-App Mobile em desenvolvimento utilizando React Native + Node.js (Fazer a API + servidor) + Biblioteca: Express
+App Mobile EM DESENVOLVIMENTO utilizando React Native + Node.js (Fazer a API + servidor) + Biblioteca: Express
 
 
 # Screens 👇🏾
