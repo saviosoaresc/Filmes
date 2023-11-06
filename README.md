@@ -13,6 +13,3 @@ App Mobile EM DESENVOLVIMENTO utilizando React Native + Node.js (Fazer a API + s
 
 
 ![modalFilme](https://github.com/saviosoaresc/Filmes/assets/62923486/58072b57-44b4-42be-993b-17c22692bbbe)
-
-
-NAO TESTA NADA
